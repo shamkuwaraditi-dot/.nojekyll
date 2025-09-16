@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+#chat-box { border: 1px solid #ccc; padding: 20px; width: 300px; height: 200px; margin: 0 auto; overflow-y: auto; }
+input { width: 200px; padding: 5px; }
+button { padding: 5px 10px; }
