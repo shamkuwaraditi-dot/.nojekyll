@@ -9,7 +9,7 @@ It allows users to type a message and receive basic responses from the bot.
 - Auto-scroll chat window  
 
 ## 🚀 Live Demo
-👉 [Click here to try the chatbot](https://your-username.github.io/Mini-Chatbot/)  
+👉 [Click here to try the chatbot](https://shamkuwaraditi-dot.github.io/Mini-Chatbot/)  
 
 ## 📂 Project Structure
 - `index.html` → main page  
@@ -22,5 +22,5 @@ It allows users to type a message and receive basic responses from the bot.
 3. Start chatting with the bot!  
 
 ---
-Made with ❤️ by *Your Name*# Mini-chatbot-html
+Made with ❤️ by *aditi# Mini-chatbot-html
 Mini chatbot project using html, js , css
